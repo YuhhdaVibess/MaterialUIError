@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "react-scripts": "^5.0.1"
+  },
+  "devDependencies": {
+    "@types/react-dom": "^18.0.9"
+  }
+}
